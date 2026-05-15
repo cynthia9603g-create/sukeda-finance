@@ -1,0 +1,6 @@
+.venv/
+data/
+output/
+backup/
+*.xlsx
+.DS_Store
